@@ -3,6 +3,12 @@
 
 Writes a single-line, one-star review of Monday as if it were a
 restaurant, to /output/entry.txt. 21 words, well under the 25-word cap.
+
+The joke: the diner booked Monday for dinner and was served cold
+emails and warm dread — a restaurant complaint where the "dishes" are
+Monday's own miseries and the bill is the rest of the week. It reads as
+a real one-star review (booking, courses, bill) while landing squarely
+on Monday itself, so the line could not be about any other day.
 """
 
 import os
